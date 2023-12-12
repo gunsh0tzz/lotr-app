@@ -1,8 +1,4 @@
-# Neue Fische Web Development Bootcamp
-
-## Solution for the Challenge "Lord of the Rings App" of the Session "Next.js Basics and Routing"
-
-<!-- # New Next Project
+# New Next Project
 
 This project was created from the neue fische `next` template.
 
@@ -38,4 +34,4 @@ You can use the following commands:
 - `npm run build` to build the project
 - `npm run start` to start a production server
 - `npm run test` to run the tests
-- `npm run lint` to run the linter -->
+- `npm run lint` to run the linter
